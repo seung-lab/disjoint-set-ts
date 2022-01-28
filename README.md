@@ -5,7 +5,7 @@ The first task is to implement the disjoint set (also known as union-find) data 
 
 You can read more about disjoint sets on [Wikipedia](https://en.wikipedia.org/wiki/Disjoint-set_data_structure). 
 
-To complete the assignment, you’ll fill in the missing code for a single Typescript file, disjointset.ts, that contains the class definition for a DisjointSet and its operations makeset, union, and find. We will compile the file into a javascript file using the tsc command as:
+To complete the assignment, you’ll fill in the missing code for a single Typescript file, disjointset.ts, that contains the class definition for a DisjointSet and its operations makeset, union, and find. We will compile the file into a javascript file using the tsc command as and run the program like so:
 
 ```bash
 tsc --lib es2021 disjointset.ts
