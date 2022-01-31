@@ -5,6 +5,8 @@ The first task is to implement the disjoint set (also known as union-find) data 
 
 You can read more about disjoint sets on [Wikipedia](https://en.wikipedia.org/wiki/Disjoint-set_data_structure). 
 
+## Programming Challenge
+
 To complete the assignment, you’ll fill in the missing code for a single Typescript file, disjointset.ts, that contains the class definition for a DisjointSet and its operations makeset, union, and find. We will compile the file into a javascript file using the tsc command as and run the program like so:
 
 ```bash
@@ -18,7 +20,9 @@ In the text input, the format is two signed integers on each line separated by a
 
 Your code must compile and produce correct output. We will run some tests on our side to make sure edge cases are covered.
 
-Provide written answers between a sentence to a paragraph for the following questions:
+## Comceptual discussion of the implementation and disjoing sets
+
+Please compile written answers between a sentence to a paragraph for the following questions:
 
 * What are some notable differences that this disjoint set data structure has compared to a typical set implementation?
 * Is it possible to add a `delete` operation to the disjoint set? If so, what is the time complexity?
