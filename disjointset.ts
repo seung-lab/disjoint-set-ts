@@ -15,7 +15,7 @@ class DisjointSet {
 		// fill in code here
 	}
 
-	// delete(x:number) : void {
+	// delete_set(x:number) : void {
 	// 		optional implementation if it helps you answer the
 	// 		question in README.md
 	// }

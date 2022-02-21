@@ -21,6 +21,6 @@ Your code must compile and produce correct output. We will run some tests on our
 Provide written answers between a sentence to a paragraph for the following questions:
 
 * What are some notable differences that this disjoint set data structure has compared to a typical set implementation?
-* Is it possible to add a `delete` operation to the disjoint set? If so, what is the time complexity?
+* Is it possible to add a `delete_set` operation to the disjoint set? If so, what is the time complexity? `delete_set` is where if any member of the set is specified, the entire set is deleted.
 * If we restricted the size of the inputs to 16-bit unsigned integers, how might you improve the run time of the implementation?
 * Under what circumstances would you choose half-path vs full-path compression?
