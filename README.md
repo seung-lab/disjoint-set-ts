@@ -20,7 +20,7 @@ In the text input, the format is two signed integers on each line separated by a
 
 Your code must compile and produce correct output. We will run some tests on our side to make sure edge cases are covered.
 
-## Comceptual discussion of the implementation and disjoing sets
+## Comceptual discussion of the implementation and disjoint sets
 
 Please compile written answers between a sentence to a paragraph for the following questions:
 
